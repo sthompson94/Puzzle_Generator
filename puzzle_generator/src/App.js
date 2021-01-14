@@ -1,6 +1,18 @@
 import logo from './logo.svg';
 import './App.css';
 
+// TO DO List
+// create wordsearch class 
+//     Attributes of WORDSEARCH class
+//       name, size , alphabet
+//     FUNCTIONS FOR WORDSEARCH class
+//       Initialize Array of arrays to hold the puzzle "X by X"
+//       Add a word to the puzzle (Horizontally, virtically, diagonal Up , Diagonal Down)
+//       Delete word
+//       Check to make sure words don't conflict
+//       Fill in Empty space
+//       View completed puzzle 
+
 function App() {
   return (
     <div className="App">
